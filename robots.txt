@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://prothrice.github.io/prothrice.txt.gz
+Sitemap: https://prothrice.github.io/app/prothrice.txt.gz
+Sitemap: https://prothrice.github.io/assets/prothrice.txt.gz
+Sitemap: https://prothrice.github.io/css/prothrice.txt.gz
+Sitemap: https://prothrice.github.io/includes/prothrice.txt.gz
+Sitemap: https://prothrice.github.io/item/prothrice.txt.gz
+Sitemap: https://prothrice.github.io/src/prothrice.txt.gz
